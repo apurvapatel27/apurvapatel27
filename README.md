@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Micro-saas for small businesses.<br>👯 I’m looking to collaborate on x.com.<br>🤝 I’m looking for help with AI automation.<br>🌱 I’m currently learning core ai engineering.<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on Micro-saas for small businesses.<br>👯 I’m looking to collaborate on x.com.<br>🤝 I’m looking for help with AI automation.<br>🌱 I’m currently learning core AI engineering.<br>💬 Ask me about <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
